@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Sistema de Encuentros",
+	"Description": "Coordinación de oleadas de enemigos — extraído a feature plugin en el tema 11. Autocontenido: ninguna referencia hacia el contenido del juego.",
+	"Category": "Arq",
+	"CreatedBy": "Arena",
+	"Modules": [
+		{
+			"Name": "EncuentroRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
